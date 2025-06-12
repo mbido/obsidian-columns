@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Create flexible, responsive columns with advanced styling options directly in your notes.",
-	"author": "Matthieu BIDAULT",
+	"author": "mbido",
 	"authorUrl": "https://github.com/mbido",
 	"isDesktopOnly": false
 }
