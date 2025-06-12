@@ -2,8 +2,7 @@
 
 Create flexible, responsive, and beautifully styled columns directly in your Obsidian notes. This plugin provides a simple code block syntax to build complex layouts with fine-grained control over alignment, spacing, borders, shadows, and more.
 
-![GIF Demo of the plugin in action](https://i.imgur.com/w23L3aE.gif)
-
+![GIF Demo of the plugin in action](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdpd2ptZHQ1OXk0aHV0Nzg5NHFmbDMyanV3cWkydWg1YmphZGs3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZasijBrfNA4QOThdIK/giphy.gif)
 
 ---
 
