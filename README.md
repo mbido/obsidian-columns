@@ -99,15 +99,8 @@ You can change all the default values (the default border, shadow, gap, etc.) in
 
 ## Installation
 
-For know the only whay is to download the release and put it in the plugin directory of your vault.
+For now the only whay is to download the release and put it in the plugin directory of your vault.
 
-~~This plugin is available on the Obsidian community plugin store.
-
-1.  Open **Settings** in Obsidian.
-2.  Go to **Community plugins**.
-3.  Make sure "Restricted mode" is **off**.
-4.  Click **Browse** and search for "Advanced Columns".
-5.  Click **Install**, and then **Enable**.~~
 
 
 
