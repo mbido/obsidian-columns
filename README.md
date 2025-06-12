@@ -45,7 +45,7 @@ This is the second column. It's just as easy.
 
 Which gives : 
 
-![[images/first-example.png]]
+![images/first-example.png]
 
 ### All Parameters
 
@@ -91,8 +91,7 @@ A new idea to consider for the future.
 
 Which gives : 
 
-![[images/second-example.png]]
-
+![images/second-example.png]
 ## Settings
 
 You can change all the default values (the default border, shadow, gap, etc.) in the plugin settings. Go to **Settings → Community Plugins → Advanced Columns** to customize the default appearance.
