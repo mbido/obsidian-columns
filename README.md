@@ -101,7 +101,7 @@ You can change all the default values (the default border, shadow, gap, etc.) in
 
 For now the only whay is to download the release and put it in the plugin directory of your vault.
 
-
+It will hopefully be available in the obsidian plugin store.
 
 
 ---
