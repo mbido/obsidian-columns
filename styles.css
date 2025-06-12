@@ -1,8 +1,40 @@
-/*
+/* styles.css */
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+/* Style de base pour le conteneur des colonnes */
+.columns-container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
 
-If your plugin does not need CSS, delete this file.
+/* Gère les images pour qu'elles ne dépassent pas de leur colonne */
+.column-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    /* Un peu de style en plus */
+}
 
-*/
+/* Style pour le message d'erreur qu'on a défini dans le code */
+.error {
+    padding: 1rem;
+    background-color: var(--background-secondary-alt);
+    border: 1px solid var(--color-red);
+    border-radius: 6px;
+    color: var(--text-normal);
+}
+
+/* NOUVEAU : Responsive Design pour les mobiles */
+/* Pour les écrans de moins de 600px de large */
+@media (max-width: 600px) {
+    .columns-container {
+        /* On force l'affichage en bloc pour que les colonnes s'empilent */
+        display: block !important;
+        /* !important pour outrepasser le style en ligne */
+    }
+
+    /* On ajoute un espacement en bas de chaque colonne (sauf la dernière) 
+       quand elles sont empilées, pour une meilleure lisibilité. */
+    .column-content:not(:last-child) {
+        margin-bottom: 1.5rem;
+    }
+}
